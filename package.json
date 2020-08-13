@@ -1,0 +1,35 @@
+{
+  "name": "jmessage-phonegap-plugin",
+  "version": "4.1.4",
+  "description": "JMessage Cordova Plugin.",
+  "cordova": {
+    "id": "jmessage-phonegap-plugin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gecc001/jmessage-phonegap-plugin.git"
+  },
+  "keywords": [
+    "JMessage",
+    "IM",
+    "im",
+    "JPush",
+    "cordova-plugin",
+    "JiGuang",
+    "Jiguang"
+  ],
+  "devDependencies": {
+    "cordova-plugin-device": "*",
+    "cordova-plugin-jcore": ">=1.2.5"
+  },
+  "author": "JiGuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gecc001/jmessage-phonegap-plugin/issues"
+  },
+  "homepage": "https://github.com/gecc001/jmessage-phonegap-plugin#readme"
+}
